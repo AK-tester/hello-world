@@ -1,4 +1,4 @@
 # hello-world
 Test 
-# checking branch capabolities
+# checking branch capabilities
 a new branch creation (manually)
